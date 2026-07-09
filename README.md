@@ -5,19 +5,17 @@ I'm passionate about building backend systems and exploring low-level programmin
 
 ---
 
-### 🔭 Current Focus
+### 🔭 Current Focus
+
 - **Backend:** Learning **Golang** and the **Gin** framework.
 - **Systems:** Learning **C/C++** for low-level applications.
 
 ### 🛠️ Tech Stack & Tools
-**Languages & Core Frameworks:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,go,py,postgres&perline=10" alt="Languages and Frameworks" />
 </p>
-
-**Environment & DevOps:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,bash,sentry" alt="Tools and Environment" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,sentry" alt="Tools and Environment" />
 </p>
 
 ---
